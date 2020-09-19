@@ -1,4 +1,4 @@
-# _Lonny's Lemons
+# _Lonny's Lemons_
 
 _19 September 2020_
 
@@ -10,8 +10,6 @@ _19 September 2020_
 
 _This is a project for Epicodus to practice setting up a C# program. It is a simple program that creates a class for cars on the lot and asks users to input a price max point, which then returns all cars matching that price point. The program also uses static methods to print some fun details about all the cars in the lost . . ._
 
-
-
 ## Setup/Installation Requirements
 
 * Clone this project using the 'git clone' command in terminal.
@@ -20,8 +18,6 @@ _This is a project for Epicodus to practice setting up a C# program. It is a sim
 ## Known Bugs
 
 _There are no known bugs at this time._
-
-## Support and contact details
 
 ## Technologies Used
 
